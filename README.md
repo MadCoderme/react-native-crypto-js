@@ -53,8 +53,8 @@ Remember to use the encrypted and decrypted data correctly. Often the output fro
 #### Hashers
 
 - [x] ```MD5```
-- [ ] ```SHA1```
-- [ ] ```SHA256```
+- [x] ```SHA1```
+- [x] ```SHA256```
 - [ ] ```SHA512```
 - [ ] ```SHA224```
 - [ ] ```SHA384```
