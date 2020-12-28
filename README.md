@@ -56,9 +56,9 @@ Remember to use the encrypted and decrypted data correctly. Often the output fro
 - [x] ```SHA1```
 - [x] ```SHA256```
 - [ ] ```SHA512```
-- [ ] ```SHA224```
+- [x] ```SHA224```
 - [ ] ```SHA384```
-- [ ] ```SHA3```
+- [x] ```SHA3```
 - [ ] ```RIPEMD160```
 ---
 #### HMAC
@@ -72,7 +72,7 @@ Remember to use the encrypted and decrypted data correctly. Often the output fro
 - [ ] ```HmacRIPEMD160```
 ---
 #### PBKDF2
-- [ ] ```PBKDF2```
+- [x] ```PBKDF2```
 ---
 #### Ciphers
 - [x] ```AES```
